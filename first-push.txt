@@ -1,0 +1,7 @@
+This is it.The first push 
+read carefully
+wq
+:wq
+:wq
+ddf
+fgg
